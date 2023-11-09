@@ -3,6 +3,9 @@ DashNote
 DashNote
 ========
 
+![Dashnote Preview](./readme-assets/dashnote.png)
+
+
 DashNote is a simple note-taking application built using customtkinter. It allows you to create, save, and update notes with a user-friendly interface.
 
 Features
